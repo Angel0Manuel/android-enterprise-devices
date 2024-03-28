@@ -1,4 +1,5 @@
-# [Google Enterprise Android Devices List](https://androidenterprisepartners.withgoogle.com/devices/)
+# [Google Enterprise Android Devices List](https://androidenterprisepartners.withgoogle.com/device
+s/)
 
 |Brand|Name|Models|Image|Website|Type|Display|CPU|RAM|Storage|Battery|OS|Telephony|Fingerprint|NFC|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -468,7 +469,8 @@
 |Samsung|Galaxy Note20 5G|SM-N981U1, SM-N981B, SM-N981U, SM-N9810, SM-N981W, SM-N981N|[Here](https://lh3.googleusercontent.com/l2rR_zUzW6bQXUa4EiDGp1fyYCVeV7p9MfxN7j-oGso1-8uSn-mkjmPScoLft-eh7uCigOwaNLjFuQ)|[Here](http://www.samsung.com/business/galaxy-note20)|Phone|6.7-inch|2.73GHz + 2.5GHz + 2.0GHz|8.0GB|128GB, 256GB|4,300mAh|Android 13|✓|✓|✓|
 |Samsung|Galaxy Note20 Ultra|SM-N985F|[Here](https://lh3.googleusercontent.com/QTGlw9eyY3zfuGbG_yQInGzO3fcm3b9rkRYX9M_cxFgPl1jAK9-LQscH1yCp78I1ovGrDc7ZwrfW)|[Here](https://www.samsung.com/uk/smartphones/galaxy-note20/)|Phone|6.9-inch|2.73GHz + 2.5GHz + 2.0GHz|12.0GB|128GB, 256GB, 512GB|4,500mAh|Android 13|✓|✓|✓|
 |Samsung|Galaxy Note20 Ultra 5G|SM-N986N, SM-N9860, SM-N986U, SM-N986U1, SM-N986B, SCG06, SM-N986W, SC-53A|[Here](https://lh3.googleusercontent.com/QTGlw9eyY3zfuGbG_yQInGzO3fcm3b9rkRYX9M_cxFgPl1jAK9-LQscH1yCp78I1ovGrDc7ZwrfW)|[Here](http://www.samsung.com/business/galaxy-note20)|Phone|6.9-inch|2.73GHz + 2.5GHz + 2.0GHz|12.0GB|128GB, 256GB, 512GB|4,500mAh|Android 13|✓|✓|✓|
-|Samsung|Galaxy S10|SM-G973F, SCV41, SM-G973C, SM-G973N, SC-03L, SM-G973U, SM-G973W, SM-G973U1, SM-G9738, SM-G9730|[Here](https://lh3.googleusercontent.com/1OC-RWU_bHiVU77QcwqmLjKTpuVnip9vgKun3ZPwsG87wdeHjCzMkvle2FiVRRSB1cR3V8L_gyU)|[Here](https://www.samsung.com/uk/smartphones/galaxy-s/galaxy-s10-prism-black-128gb-sm-g973fzkdu07/)|Phone|6.1-inch|2.7GHz + 2.3GHz + 1.9GHz|8.0GB|128GB|3,400mAh|Android 9|✓|✓|✓|
+|Samsung|Galaxy S10|SM-G973F, SCV41, SM-G973C, SM-G973N, SC-03L, SM-G973U, SM-G973W, SM-G973U1, SM-G9738,
+no SM-G9730|[Here](https://lh3.googleusercontent.com/1OC-RWU_bHiVU77QcwqmLjKTpuVnip9vgKun3ZPwsG87wdeHjCzMkvle2FiVRRSB1cR3V8L_gyU)|[Here](https://www.samsung.com/uk/smartphones/galaxy-s/galaxy-s10-prism-black-128gb-sm-g973fzkdu07/)|Phone|6.1-inch|2.7GHz + 2.3GHz + 1.9GHz|8.0GB|128GB|3,400mAh|Android 9|✓|✓|✓|
 |Samsung|Galaxy S10+|SCV42, SM-G975F, SM-G975U, SM-G9750, SM-G9758, SM-G975U1, SM-G975N, SM-G975W, SC-04L|[Here](https://lh3.googleusercontent.com/_gVkV77lUny4EpTwzCNwwZlr_1o8GM6wv8NbQSgngDghyMMTr-1x3J0wZ64CFagYkdy0y2B7sek)|[Here](https://www.samsung.com/uk/smartphones/galaxy-s/galaxy-s10-prism-black-128gb-sm-g973fzkdu07/)|Phone|6.4-inch|2.7GHz + 2.3GHz + 1.9GHz|8.0GB|128GB|4,100mAh|Android 9|✓|✓|✓|
 |Samsung|Galaxy S10e|SM-G970U1, SM-G9708, SM-G970U, SM-G970N, SM-G9700, SM-G970W, SM-G970F|[Here](https://lh3.googleusercontent.com/tpRIV3q94xN1K-knKWxDerxXDsl7zv3CuhI82QPmFpZVf7tyOj5ofatvjRneONcIfaRCL2zYymuAww)|[Here](https://www.samsung.com/uk/smartphones/galaxy-s/galaxy-s10-prism-black-128gb-sm-g973fzkdu07/)|Phone|5.8-inch|2.7GHz + 2.3GHz + 1.9GHz|6.0GB|128GB|3,100mAh|Android 9|✓|✓|✓|
 |Samsung|Galaxy S20|SM-G980F|[Here](https://lh3.googleusercontent.com/FA3ieWbUAB5PHfu2w28VsAU7GF6tWGV2m32-V3eV3lgWJCKwa8W4AJ8kyfj6JVpZ8jd8AMa-YPFQig)|[Here](https://www.samsung.com/uk/smartphones/galaxy-s20/purchase/)|Phone|6.2-inch|2.7GHz + 2.5GHz + 2.0GHz|8.0GB|128GB, 512GB|4,000mAh|Android 13|✓|✓|✓|
